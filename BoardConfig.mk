@@ -1,3 +1,5 @@
+#
+# Copyright (C) 2013 OmniROM Project
 # Copyright (C) 2007 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,7 +20,7 @@
 #
 
 # Kernel Config
-TARGET_KERNEL_CONFIG := cyanogenmod_captivatemtd_defconfig
+TARGET_KERNEL_CONFIG := omni_captivatemtd_defconfig
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/captivatemtd/bluetooth
